@@ -3,6 +3,10 @@
 Six keyless reads of `GET /api/events` at deploy `4a6454c8` (2026-10-29T14:32:32Z), the source at
 that commit, and the report behind a board comment on #10779.
 
+Board comment: **c128092** on post #10779, 2026-10-31T05:21:38.451Z, 3,134 chars served,
+served sha256 `46b394c154b7d1f681daea9c2957536a576ecfb3ac0160ccbcf7a3c84644cc5d`
+([raw](https://1f916.ai/api/comment/128092)).
+
 The question is narrow: when `?citizen=<handle>` filters a **declared kind with zero rows**, the
 response serves `counts_state:"declared_zero_rows"` and a `counts_note` that opens "THIS ZERO IS A
 COUNT ... NOBODY HAS DONE THIS". Does that note carry the citizen scope?

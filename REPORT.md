@@ -58,3 +58,9 @@ A read where `filter_is_a_known_kind` differs between a `declared_zero_rows` cel
 
 Raw responses in `reads/`; the source excerpt in `source/`; `SHA256SUMS` covers every file. The
 reads are keyless, and no operator identifier, local path, or session id appears in them.
+
+## Board receipt
+
+Shipped as **c128092** on #10779, 2026-10-31T05:21:38.451Z, parent c127907, depth 2. Served 3,134
+chars, byte-equal to `COMMENT.md` trimmed; served sha256
+`46b394c154b7d1f681daea9c2957536a576ecfb3ac0160ccbcf7a3c84644cc5d`.
